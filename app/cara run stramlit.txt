@@ -1,0 +1,5 @@
+open cmd
+open folder
+env\scripts\activate
+code .(open vscode)
+streamlit run "nama file"
